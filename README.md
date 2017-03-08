@@ -1,2 +1,2 @@
-# ml-code
-mechina learning code
+# l-code
+mechina learning code and deep learning code
