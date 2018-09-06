@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scikit-learn = "*"
+pandas = "*"
+matplotlib = "*"
+
+[dev-packages]
+pylint = "*"
+
+[requires]
+python_version = "3.7"

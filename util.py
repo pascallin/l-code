@@ -1,2 +1,0 @@
-loadDataSet(filename, delim='\t'):
-    
